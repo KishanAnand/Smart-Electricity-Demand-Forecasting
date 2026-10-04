@@ -1,0 +1,19 @@
+{
+    "peak_threshold_kW": 2.8574733333333318,
+    "regression_threshold_method": {
+        "precision": 0.38461538461538464,
+        "recall": 0.07092198581560284,
+        "f1_score": 0.11976047904191617,
+        "actual_peak_observations": 141,
+        "predicted_peak_observations": 26,
+        "correctly_detected_peaks": 10,
+        "false_peak_predictions": 16,
+        "missed_peaks": 131
+    },
+    "dedicated_classifier": {
+        "probability_threshold": 0.6,
+        "precision": 0.1761006289308176,
+        "recall": 0.3971631205673759,
+        "f1_score": 0.2440087145969499
+    }
+}
