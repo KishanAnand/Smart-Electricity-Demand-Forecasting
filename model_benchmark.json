@@ -1,0 +1,26 @@
+[
+    {
+        "Model Architecture": "Linear Regression",
+        "RMSE (kW)": 0.51,
+        "MAE (kW)": 0.3616,
+        "R2 Score": 0.5126,
+        "MAPE (%)": 50.34,
+        "Status": "Evaluated"
+    },
+    {
+        "Model Architecture": "Random Forest",
+        "RMSE (kW)": 0.4799,
+        "MAE (kW)": 0.3302,
+        "R2 Score": 0.5686,
+        "MAPE (%)": 47.22,
+        "Status": "Evaluated"
+    },
+    {
+        "Model Architecture": "XGBoost Regressor",
+        "RMSE (kW)": 0.4674,
+        "MAE (kW)": 0.3248,
+        "R2 Score": 0.5907,
+        "MAPE (%)": 44.89,
+        "Status": "Deployed"
+    }
+]
